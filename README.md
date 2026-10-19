@@ -4,6 +4,16 @@
 
 它以理解和应用为目标，通过直觉、推理、例子、反例和常见误区帮助学习，而不是逐页翻译或复述 PPT。
 
+## 适用人群
+
+适用于**母语为中文、需要使用英文学习的大学生和研究生**，包括但不限于：
+
+- 在海外留学、使用英文教材或修读英文授课课程的学生。
+- 中外合作办学项目、联合培养项目及国际学院的学生。
+- 在国内高校修读英文授课课程、阅读英文课件和学术材料的本科生、硕士生与博士生。
+
+无论是否出国，只要希望借助中文理解专业知识，同时掌握英文术语和课程表达，都可以使用本 Skill。讲解深度应随课程层次、材料难度和学习者基础调整。
+
 ## 核心功能
 
 - **中文教学与英文强化**：用清楚的中文解释概念，保留重要英文术语、缩写、公式名称和考试表达，并在后续讲解中持续强化。
@@ -64,4 +74,4 @@ course-learning-assistant/
 
 ## English overview
 
-A course tutoring skill for English-language PDFs and presentations. It teaches in Chinese while reinforcing English terminology, cites exact source pages or slides for each teaching block, adapts explanations to the learner, supports review and practice, and maintains a reusable learning progress document in the current workspace.
+A course tutoring skill for native Chinese-speaking undergraduate and graduate students who need to study in English, including but not limited to international students and students in Chinese-foreign cooperative education or joint degree programs. It supports learning from English-language PDFs and presentations. It teaches in Chinese while reinforcing English terminology, cites exact source pages or slides for each teaching block, adapts explanations to the learner, supports review and practice, and maintains a reusable learning progress document in the current workspace.
