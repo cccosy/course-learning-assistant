@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course Learning Assistant"
+  short_description: "Learn English course PDFs with page-cited explanations"
+  default_prompt: "Use $course-learning-assistant to explain the uploaded course material in Chinese with English terminology and exact page citations."
